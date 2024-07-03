@@ -1,0 +1,3 @@
+C:/Users/creid/CLionProjects/garbage-collector/cmake-build-debug/CMakeFiles/garbage_collector.dir
+C:/Users/creid/CLionProjects/garbage-collector/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/creid/CLionProjects/garbage-collector/cmake-build-debug/CMakeFiles/rebuild_cache.dir

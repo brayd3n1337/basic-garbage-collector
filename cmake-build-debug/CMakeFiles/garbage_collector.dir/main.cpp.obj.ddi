@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\garbage_collector.dir\\main.cpp.obj",
+            "outputs": [
+                "C:\\Users\\creid\\CLionProjects\\garbage-collector\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\garbage_collector.dir\\main.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}
